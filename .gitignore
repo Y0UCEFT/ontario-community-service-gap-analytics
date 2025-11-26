@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data
+data_raw/
+data_clean/
+
+# Power BI
+*.pbix
